@@ -1,0 +1,2 @@
+如何使用 Git 和 GitHub 来管理自己的代码：
+	https://www.jianshu.com/p/7fa6b2d81f19
